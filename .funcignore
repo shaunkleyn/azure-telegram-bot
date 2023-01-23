@@ -1,8 +1,0 @@
-.git*
-.vscode*
-.funcignore
-Makefile
-config
-config-example
-functions.zip
-register.js
